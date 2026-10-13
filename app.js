@@ -5,8 +5,8 @@
  */
 (() => {
   'use strict';
-  const MIN_ITEMS = 15;
-  const MAX_ITEMS = 20;
+  const MIN_ITEMS = 100;
+  const MAX_ITEMS = 100;
   const TARGET_SD = 0.52;
   const B_BY_LEVEL = {1:-1.9,2:-0.95,3:0,4:0.95,5:1.9};
   const DOMAINS = ['Molecular Foundations','Methods & Instrumentation','Clinical Interpretation','Quality & Laboratory Practice'];
